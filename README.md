@@ -4,3 +4,5 @@
 
 Ejemplo del código que hicimos en el Webinar de  para la comunidad de Laravel Devs & Vue.
 Aplique algunas pequeñas mejoras.
+
+URL del video del Webinar -> https://bit.ly/2T6L5Xh 
